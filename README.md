@@ -46,8 +46,16 @@ Logo, Search bar, User navigation & Responsive menu.
 Property image, Basic details (price, location, rating), Favorite button & Responsive layout.
 #### 3.Footer:
 Site links, Company information, Social media links & Copyright information.
-
-
+### Team Roles
+##### Business Analyst (BA): Understands business needs, translates them into clear requirements, and bridges customer and dev team.
+##### Product Owner (PO): Owns product vision, defines strategy, manages backlog, and ensures final product meets customer needs. 
+##### Project Manager (PM): Ensures delivery on time and budget, manages tasks, team communication, and project progress.     
+##### UI/UX Designer: Designs user interfaces and experiences, creates user flows, wireframes, and prototypes for usability.
+##### Software Architect: Plans high-level architecture, selects tools, and ensures scalability, quality, and system integrity.
+##### Software Developer: Builds and maintains the product (front-end, back-end, or full-stack), solving technical challenges.
+##### QA Engineer: Tests app functionality and usability, identifies bugs, and ensures it meets all requirements.
+##### Test Automation Engineer: Creates automated test scripts to improve testing efficiency and maintain quality at scale.
+##### DevOps Engineer: Builds CI/CD pipelines, automates deployments, and ensures smooth collaboration between dev and ops.
 
 
 
