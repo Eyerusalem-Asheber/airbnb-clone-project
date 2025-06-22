@@ -31,8 +31,8 @@ A well-designed booking system reduces friction in the user journey, increases c
         -Secondary Text: Circular, Book (400), 14px
 Importance of Identifying Design Properties of a Mockup Design: Bridges design and development, Ensures consistence, Improves collaboration, Speeds up development, Enhances user experience and Reduces errors and rework.
 ## Project Roles and Responsibilities
-Project Manager:- Oversees timeline, coordinates team, manages deliverables.
-Frontend Developers:- Implements UI components, ensures responsive design.
+#### Project Manager:- Oversees timeline, coordinates team, manages deliverables.
+#### Frontend Developers:- Implements UI components, ensures responsive design.
 Backend Developers:- Builds APIs, manages database, implements business logic.
 Designers:- Creates mockups, maintains design system, ensures UX quality.
 QA/Testers:- Writes test cases, performs testing, reports bugs.
